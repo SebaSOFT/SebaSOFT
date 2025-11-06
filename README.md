@@ -1,5 +1,138 @@
 # 💫 About Me:
-Software developer since 1996<br>My main project is "Walls Have Ears":  A FoundrVTT add-on to make sounds behind walls muffled.
+## Sebastian Dieguez
+Chimbas, San Juan, Argentina, 5413
++54-9264-4548453
+sebasoft@gmail.com
+www.linkedin.com/in/sebasoft
+
+---
+
+### Software Engineer | Tech Lead | Agile Coach
+
+### Professional Summary
+
+Senior Software Engineer and Tech Lead with over 23 years of experience specializing in high-performance PHP backend systems, serverless architecture, and cloud-based solutions. Proven expertise in leading technical architecture design for legacy system refactoring and managing distributed development teams. Agile facilitator (Scrum/Kanban) with a strong background in driving evangelization and cultural change in large-scale organizations.
+
+---
+
+### Technical Skills
+
+* **Cloud/DevOps:** AWS (Serverless, RDS, S3, SQS, SNS), Docker, Digital Ocean, CI/CD, Vagrant, VirtualBox
+* **Languages:** PHP, Java, JavaScript, Node.js, Ruby, SQL
+* **Frameworks & Libraries:** Symfony, Laravel, React, Next.js, Nest.js, Vue.js, Angular, Wordpress, Magento, Spring, jQuery
+* **Databases & APIs:** MySQL, Oracle, GraphQL, REST APIs, JSON, elasticsearch, Swagger
+* **Methodologies:** Agile, Scrum, Kanban
+
+---
+
+### Professional Experience
+
+**Baires Dev** | Remote
+**Software Engineer** (September 2019 - Present)
+
+* Designed and implemented a high-scalability architecture for batch processing dynamically generated PDF documents.
+* Led the successful implementation of 15 integrations with diverse ERP and HR systems, enabling tax credit procurement for over 600 clients.
+* Serve as Tech Lead for an 8-member team, guiding architecture design for legacy refactoring and new cloud-native implementations.
+* Manage AWS and DevOps for a Serverless, multi-environment, high-availability Laravel/PHP deployment.
+* Develop high-throughput, high-performance PHP backend job scheduling queues.
+* Lead PHP Symfony development for a major third-party retail client.
+* Manage high-traffic Wordpress sites, including custom plugin and theme development.
+
+**Brain it, LLC** | San Juan, Argentina
+**Director of IT** (February 2020 - Present)
+
+* Direct technology strategy and development using React, Next.js, Node.js, Nest.js, and Serverless AWS architectures (RDS, S3, SQS, SNS).
+
+**VayaPin** | Denmark (Remote)
+**Sr. Fullstack Developer** (September 2020 - January 2022)
+
+* Developed internal and customer-facing systems using React.js against a Ruby/Rails GraphQL API.
+* Built static websites with Next.js and customized Ant Design components.
+* Managed headless CMS (Strapi, Directus) and automated deployment workflows.
+* Implemented SSO (provider and consumer) solutions.
+
+**W-Line** | San Juan, Argentina
+**Sr. Application Developer** (April 2018 - February 2020)
+
+* Developed a first-response communication service utilizing a Laravel 5.7 backend and a Vue.js SPA frontend.
+* Managed CI/CD pipelines and cloud infrastructure on Digital Ocean.
+
+**SweatWorks** | San Juan, Argentina
+**Application Developer** (April 2018 - December 2018)
+
+* Developed software solutions for major clients using Docker, Node, React, Vue, and Angular 6.
+
+**Lyracons - eCommerce Solutions** | (Remote)
+**Sr. Application Developer** (October 2017 - January 2018)
+
+* Developed senior-level solutions for Magento, including new feature creation, e-Commerce customization, and custom shipping/tax plugin development.
+* Technologies: Magento 1.x, Docker, PHP, JavaScript, Google Maps API, REST.
+
+**Confiar Seguros** | (Remote)
+**Senior Web Application Developer** (June 2016 - November 2017)
+
+* Created an entirely new frontend for insurance quotation and developed the backend interface with legacy quotation systems.
+* Developed a mobile web application with a responsive UI.
+* Implemented security token architecture for insurance officers.
+* Technologies: AngularJS, Node.JS, Docker, Symfony, PHP, RESTful API, JWT.
+
+**plenigo GmbH** | (Remote)
+**Sr. Application Developer** (July 2014 - January 2017)
+
+* Led development of the PHP SDK and WordPress plugins for a German payment solution startup.
+* Technologies: PHP, Wordpress, WooCommerce, oAuth, JWT, Java, Microservices, React, Node.js, REST, elasticsearch.
+
+**Bontus** | Córdoba, Argentina
+**Sr. Game Producer** (July 2014 - January 2016)
+
+* Led teams and developers for several gaming projects, including Advergames.
+* Managed Google Play and Apple App Store publishing, application analytics, and user engagement metrics.
+* Implemented Scrum and Kanban methodologies.
+
+**Vates** | Córdoba, Argentina
+**Agile Coach** (February 2011 - July 2014)
+
+* Served as Scrum Master for multiple development teams and acted as an Agile methodologies evangelist.
+* Coached company cultural changes and provided training and support in agile implementation.
+* Provided technical leadership for a large Medical Care company project.
+
+**Verizon Business** | Buenos Aires, Argentina
+**Senior Application Developer** (November 2005 - January 2011)
+
+* Provided research and feasibility assessment of emerging technologies.
+* Promoted knowledge transfer and provided training on Agile/SCRUM development.
+* Technologies: Java, Struts, Maven, Spring, Oracle, Web Services, SSO.
+
+---
+
+### Certifications
+
+* Oracle WebLogic Administrator
+* Oracle WebLogic Advanced Administrator
+* Oracle WebLogic Troubleshooter
+
+---
+
+### Publications
+
+* The Dogma of the Scrum Master (El Dogma del Scrum Master)
+
+---
+
+### Languages
+
+* English (Full Professional)
+* Spanish (Native or Bilingual)
+
+---
+
+### Education
+
+**Universidad Empresarial 'Siglo 21'**
+* Software Engineering (2001 - 2022)
+
+**Universidad Abierta Interamericana**
+* Computer Systems Engineering (2001 - 2015)
 
 
 ## 🌐 Socials:
