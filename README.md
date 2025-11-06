@@ -129,7 +129,7 @@ Senior Software Engineer and Tech Lead with over 23 years of experience speciali
 ### Education
 
 **Universidad Empresarial 'Siglo 21'**
-* Software Engineering (2001 - 2022)
+* Software Engineering (2015 - 2022)
 
 **Universidad Abierta Interamericana**
 * Computer Systems Engineering (2001 - 2015)
