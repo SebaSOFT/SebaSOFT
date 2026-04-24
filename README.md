@@ -1,8 +1,9 @@
 # 💫 About Me:
+
 ## Sebastian Dieguez
-Chimbas, San Juan, Argentina, 5413
-+54-9264-4548453
+
 sebasoft@gmail.com
+
 www.linkedin.com/in/sebasoft
 
 ---
