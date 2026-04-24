@@ -12,7 +12,7 @@ www.linkedin.com/in/sebasoft
 
 ### Professional Summary
 
-Senior Software Engineer and Tech Lead with over 23 years of experience specializing in high-performance PHP backend systems, serverless architecture, and cloud-based solutions. Proven expertise in leading technical architecture design for legacy system refactoring and managing distributed development teams. Agile facilitator (Scrum/Kanban) with a strong background in driving evangelization and cultural change in large-scale organizations.
+Senior Software Engineer and Tech Lead with over 26 years of experience specializing in high-performance PHP backend systems, serverless architecture, and cloud-based solutions. Proven expertise in leading technical architecture design for legacy system refactoring and managing distributed development teams. Agile facilitator (Scrum/Kanban) with a strong background in driving evangelization and cultural change in large-scale organizations.
 
 ---
 
